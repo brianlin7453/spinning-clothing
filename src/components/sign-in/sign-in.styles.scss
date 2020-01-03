@@ -10,5 +10,9 @@
   .buttons {
     display: flex;
     justify-content: space-between;
+   
+  &.sign-in{
+    margin-left: 10px;
+  }
   }
 }
